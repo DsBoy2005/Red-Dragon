@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️♀️ මොකක්ද ඕන උදව්ව..?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,9 +30,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94752700708'] // owner number
-global.ownername = "😎DS BOY❯❯" // owner name
+global.ownername = "DS BOY" // owner name
 global.ytname = "" // DS BOY OFFICIAL
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: dsbot11" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -42,15 +42,15 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "බායි😑" // To remove group link sharing peoples
+global.antilink = "Remove you" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94752700708']
 global.ownertag = '+94752700708' //your tag number
-global.botname = 'DS BOT - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.botname = 'DS BOT' //ur bot name
+global.packname = "DS BOY Sticker" // sticker packname
 global.author = "DS BOT" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
@@ -162,8 +162,8 @@ global.ntilink = []
 
 // DO NOT CHANGE THIS. ERROR WARNING දාන්න තැනක් නැතුව මෙතන දැම්මෙ.
 global.rep = { // All Replies = 145
-    K1: '🫢හායි😁❤️',
-    K2: '🤭හූයි✌️💞🫶',
+    K1: '🫢හායි',
+    K2: 'හූයි🫶',
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
