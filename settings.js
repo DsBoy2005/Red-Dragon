@@ -47,9 +47,9 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['https://wa.me/+94752700708']
-global.ownertag = '+94752700708' //your tag number
-global.botname = 'DS BOT' //ur bot name
+global.owner = ['+94752700708']
+global.ownertag ='+94752700708'//your tag number
+global.botname = '@DS_BOT' //ur bot name
 global.packname = "DS BOY Sticker" // sticker packname
 global.author = "DS BOT" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
